@@ -1,4 +1,33 @@
 ## :WIP: Prague estates project
+Hello and welcome!
+
+If you ever tried to find an appartment in Prague, you know how complicated it can be...
+All the best offers are gone in 15 minutes! You found cool appartment posted 10 min ago and you are 30th applicant! 
+So, you have to check new adds every few minute... or use out bot!
+
+@PragueEstateBot
+
+It will do all boring work for you and send you most recent ads right to your Telegram.
+You can set up filters:
+ - rent or sale mode
+ - max price
+ - appartment's layout
+ - district  
+and receive only the ads that are relevant to you. 
+
+
+It's gonna look in here:
+sreality.cz
+bezrealitky.cz
+svoboda-williams.com
+expats.cz
+reality.idnes.cz
+engelvoelkers.com
+remax-czech.cz
+
+IF you want to keep an eye on all the ads, you can join these channels:
+@prague_estate_rent
+@prague_estate_sale
 
 <!--
 
