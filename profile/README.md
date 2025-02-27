@@ -15,16 +15,6 @@ You can set up filters:
  - district  
 and receive only the ads that are relevant to you. 
 
-
-It's gonna look in here:
-sreality.cz
-bezrealitky.cz
-svoboda-williams.com
-expats.cz
-reality.idnes.cz
-engelvoelkers.com
-remax-czech.cz
-
 IF you want to keep an eye on all the ads, you can join these channels:
 @prague_estate_rent
 @prague_estate_sale
