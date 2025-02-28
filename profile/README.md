@@ -1,23 +1,37 @@
-## :WIP: Prague estates project
+[Prague estates bot](https://t.me/PragueEstateBot)
+===
+
 Hello and welcome!
 
-If you ever tried to find an appartment in Prague, you know how complicated it can be...
-All the best offers are gone in 15 minutes! You found cool appartment posted 10 min ago and you are 30th applicant! 
-So, you have to check new adds every few minute... or use out bot!
+🔎🏠 If you ever tried to find an appartment in Prague, you know how complicated it can be...   
+- 🙁 All the best offers are gone in 15 minutes!  
+- 😖 You found cool appartment posted 10 min ago and you are 30th applicant!  
+- 😫 So, you have to check new adds every few minute...  
 
-@PragueEstateBot
+or
+  
+use our bot! 😌
 
-It will do all boring work for you and send you most recent ads right to your Telegram.
-You can set up filters:
+[@PragueEstateBot](https://t.me/PragueEstateBot)
+
+It will do all boring work for you: collect from most popular sources and send to you **most recent ads**.  
+Right to your Telegram. 
+
+😎  And you even can set up filters:
  - rent or sale mode
  - max price
  - appartment's layout
- - district  
+ - district
+
 and receive only the ads that are relevant to you. 
 
-IF you want to keep an eye on all the ads, you can join these channels:
-@prague_estate_rent
-@prague_estate_sale
+---------------
+
+If you want to keep an eye on all the ads, you can join these channels:  
+
+[@prague_estate_rent](https://t.me/prague_estate_rent)  
+
+[@prague_estate_sale](https://t.me/prague_estate_sale)
 
 <!--
 
